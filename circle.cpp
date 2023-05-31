@@ -10,13 +10,7 @@ class base
     }
 };
 
-//adding comments in main file 
-
-void Subtract()
-{
-int iNo1,iNo2;
-cout<<iNo1-iNo2;
-}
+//adding comments in main file ()
 class derived:public base
 {
     public:
