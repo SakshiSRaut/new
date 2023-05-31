@@ -13,6 +13,11 @@ class base
 
 //adding comments in main file 
 
+void Subtract()
+{
+int iNo1,iNo2;
+cout<<iNo1-iNo2;
+}
 class derived:public base
 {
     public:
