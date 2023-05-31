@@ -12,14 +12,12 @@ class base
 
 //adding file from local to remote
 
-<<<<<<< HEAD
 int iNo1;
 iNo1=11;
 
-=======
 //adding comments in main file 
 // adding file 
->>>>>>> origin/main
+
 class derived:public base
 {
     public:
