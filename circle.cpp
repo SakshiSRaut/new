@@ -12,7 +12,7 @@ class base
 
 
 //adding comments in main file 
-
+// adding file 
 class derived:public base
 {
     public:
