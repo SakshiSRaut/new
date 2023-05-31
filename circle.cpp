@@ -31,6 +31,7 @@ class derivedsecond:public derived
     
 };
 
+int iNo1=11;
 int main()
 {
     derivedsecond obj1;
