@@ -10,7 +10,7 @@ class base
     }
 };
 
-//adding comment in master
+
 class derived:public base
 {
     public:
