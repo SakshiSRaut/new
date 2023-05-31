@@ -10,7 +10,6 @@ class base
     }
 };
 
-
 //adding comments in main file 
 
 void Subtract()
