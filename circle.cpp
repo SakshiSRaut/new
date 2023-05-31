@@ -10,7 +10,11 @@ class base
     }
 };
 
-
+void addition()
+{
+    int iNo1,iNo2;
+    cout<<iNo1+iNo2;
+}
 //adding comments in main file 
 // adding file 
 class derived:public base
