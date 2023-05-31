@@ -10,9 +10,8 @@ class base
     }
 };
 
-
 //adding comments in main file 
-
+// adding file 
 class derived:public base
 {
     public:
@@ -26,6 +25,7 @@ class derivedsecond:public derived
     
 };
 
+int iNo1=11;
 int main()
 {
     derivedsecond obj1;
