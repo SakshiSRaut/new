@@ -10,6 +10,7 @@ class base
     }
 };
 
+
 //adding file from local to remote
 
 int iNo1;
@@ -17,6 +18,9 @@ iNo1=11;
 
 //adding comments in main file 
 // adding file 
+
+
+//adding comments in main file ()
 
 class derived:public base
 {
